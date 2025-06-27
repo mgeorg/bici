@@ -7,3 +7,5 @@ For 16 channel radios use the `bici_v2.csv` file (we recommend the Arcshell AR-1
 [BICI Instagram](https://www.instagram.com/bici_stl/)
 
 [Information for the BICI radios and how to use a radio on a bike](https://docs.google.com/document/d/1Nz5sjVay-kv8LYEp0EwoCZMP3St0vpqVzLEDP2xpqs0)
+
+[Gridmapper Bike Route Mapping by Jay Cluts](https://gridmapper.cc/)
